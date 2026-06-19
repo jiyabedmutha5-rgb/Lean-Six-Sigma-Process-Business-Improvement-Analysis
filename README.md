@@ -27,83 +27,65 @@ The challenge was to identify the loan features that customers value the most an
 
 ## Methodology
 
-### Data Collection
+The project was executed using a two-phase survey-based analytical framework.
 
-* Google Forms Survey
-* Customer Preference Questionnaire
-* Primary Data Collection
+### Phase 1
+- Designed and distributed a structured questionnaire
+- Collected responses from approximately 100 participants
+- Converted survey responses into binary (0-1) format using Microsoft Excel
+- Performed predictive analytics to identify the most influential personal loan selection factors
 
-### Data Processing
+### Phase 2
+- Developed a second questionnaire based on Phase 1 findings
+- Collected responses from approximately 200 participants
+- Processed and analyzed data using AI Predictive Analytics tools
+- Identified optimized personal loan feature combinations preferred by customers
 
-* Data Cleaning
-* Binary Data Conversion
-* Excel-Based Data Preparation
+## Tools & Technologies
 
-### Analysis Techniques
-
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Predictive Analytics
-* Feature Ranking
-* Customer Preference Optimization
+- Microsoft Excel
+- Google Forms
+- Predictive Analytics Tool
+- Statistical Analysis
+- Survey Research Methodology
+- Lean Six Sigma Concepts
+- Business Analytics
 
 ## Key Findings
 
-The analysis identified significant variation in customer preferences across personal loan features.
+### Phase 1 Results
+- Test Statistic: 54.746
+- P-Value: 0.00000
+- Assurance Level: 100%
 
-Most influential attributes included:
+Most influential factors identified:
 
-* Disbursal Time
-* Documentation Requirements
-* Foreclosure Facility
-* Repayment Tenure
-* Insurance Benefits
-* Interest Structure
+1. F2 – Disbursal Time
+2. F5 – Documentation
+3. F3 – Foreclosure Facility
+4. F6 – Repayment Tenure
+5. F8 – Insurance Benefits
+6. F7 – Interest Structure
 
-The study identified optimized combinations of loan features that maximize customer attractiveness and product acceptance.
+### Phase 2 Results
+
+The predictive analytics model evaluated 4,096 possible combinations of loan features and identified the optimal customer-preferred product configuration.
+
+Best-performing combination:
+
+A2 B3 C2 D2 E2 F2
 
 ## Business Impact
 
-The project provides actionable recommendations for financial institutions to:
+The study provides actionable insights for financial institutions to:
 
-* Design customer-centric loan products
-* Improve approval and disbursal processes
-* Offer flexible repayment options
-* Enhance customer satisfaction
-* Improve customer retention
-* Support product optimization through analytics
+- Design customer-centric loan products
+- Improve approval and disbursal processes
+- Offer flexible repayment options
+- Enhance customer satisfaction
+- Improve product acceptance rates
+- Support data-driven business decisions
 
-## Tools Used
+## Conclusion
 
-* Microsoft Excel
-* Google Forms
-* Pursullence AI Predictive Analytics Tool
-* Statistical Analysis Techniques
-* Lean Six Sigma Methodology
-
-## Skills Demonstrated
-
-* Data Collection
-* Survey Design
-* Statistical Analysis
-* Business Analytics
-* Predictive Analytics
-* Process Improvement
-* Financial Services Analytics
-* Data Interpretation
-* Report Preparation
-
-## Repository Structure
-
-data/
-report/
-presentation/
-README.md
-
-## Future Scope
-
-* Larger sample size analysis
-* Advanced predictive modeling
-* Demographic-based segmentation
-* Extension to other financial products
-* Continuous customer preference tracking
+This Lean Six Sigma OJT project successfully demonstrated how predictive analytics and customer preference analysis can be used to optimize financial products. The study identified the most influential loan selection factors and generated an optimized personal loan configuration using a structured analytical approach.
